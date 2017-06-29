@@ -8,8 +8,6 @@ class _BaseTrignoDaq(object):
 
     Requires the Trigno Control Utility to be running.
 
-    For more information, refer to the :ref:`User Guide <trigno_daq>`.
-
     Parameters
     ----------
     host : str
@@ -145,8 +143,6 @@ class TrignoEMG(_BaseTrignoDaq):
 
     Requires the Trigno Control Utility to be running.
 
-    For more information, refer to the :ref:`User Guide <trigno_daq>`.
-
     Parameters
     ----------
     channel_range : tuple with 2 ints
@@ -231,8 +227,6 @@ class TrignoAccel(_BaseTrignoDaq):
     Delsys Trigno wireless EMG system accelerometer data.
 
     Requires the Trigno Control Utility to be running.
-
-    For more information, refer to the :ref:`User Guide <trigno_daq>`.
 
     Parameters
     ----------
