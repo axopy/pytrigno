@@ -18,7 +18,7 @@ setup(
     url='https://github.com/ucdrascal/pytrigno',
     author='Kenneth Lyons',
     author_email='ixjlyons@gmail.com',
-    license='new BSD',
+    license='MIT',
 
     py_modules=['pytrigno']
 )
